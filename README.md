@@ -1,1 +1,1 @@
-# Python Practice of Object-Oriented Class
+# Python Practice
